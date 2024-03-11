@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: articulation-backend
+Version: 1.0
+Author: 
+Author-email: 
+Requires-Python: >=3.8
+Requires-Dist: open3d==0.18.0
+Requires-Dist: pymeshlab
